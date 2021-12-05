@@ -4,7 +4,7 @@
   "steps_to_reproduce": "1. Open www.1234.com, 2. Go to 'About us' page, 3.Scroll down to the button 'Learn more', 4. Click on the button 'Learm more'",
   "expected_result": "After click on the button 'Learm more' addition information appears",
   "actual_result": "After click on the button 'Learm more' no information appears",
-  "environments": "Chrome ver 96.0.4664.45"
+  "environments": "Chrome ver 96.0.4664.45",
   "reproducibility": "always",
   "workaround": "no",
   "severity": "minor",
